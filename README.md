@@ -8,7 +8,7 @@
 ## About Me
 - 🎓 BSc in Statistics & Operations Research — University of Peradeniya
   (Statistics, Computer Science, Mathematics)
-- 💼 2+ years building AI systems with Azure OpenAI & C#/.NET Core
+- 💼 4+ years building AI systems with Azure OpenAI & C#/.NET Core
 - 🤖 5 independent ML & Computer Vision projects in Python
 - 📊 Skills: Python · OpenCV · scikit-learn · Azure OpenAI · Power BI · C#
 
